@@ -1,0 +1,10 @@
+*.pem
+*.key
+*.cert
+*.txt
+.env
+.env copy
+
+x.py
+
+nohup.out
